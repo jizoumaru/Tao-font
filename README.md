@@ -25,4 +25,4 @@ Roboto Monoの記号の一部を修正してます
 ![ブラウザ](https://raw.githubusercontent.com/jizoumaru/Tao-font/master/img/browser.png "ブラウザ")
 
 ## 顔文字がきれい
-:-D :-)
+![顔文字](https://raw.githubusercontent.com/jizoumaru/Tao-font/master/img/ascii.png "顔文字")
